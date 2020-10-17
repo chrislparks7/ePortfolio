@@ -1,5 +1,6 @@
 # Welcome to the ePortfolio for Christopher Parks
 
+
 ## Self-Assessment
 
 Throughout my time at SHNU in the Computer Science program, I learned not only about coding languages and programming functions but also how to be a successful developer, working among a team, and practicing good development processes throughout a project.  Learning about Agile Development and team collaboration helped me build a healthy foundation in understanding how the Agile Environment but also how the different roles within an Agile Team come together to successfully and collaboratively create products.  I also learn about utilizing good Git practices to help manage team collaboration and working as a team to productively push and merge project information.  Throughout my projects and courses, I was introduced to maximizing my skills in communicating among a team along with Project Managers and company stakeholders so that effective communication can be transmitted throughout a project's development lifecycle.

@@ -1,4 +1,4 @@
-# Welcome to Christopher Parks' ePortfolio
+# Welcome to the ePortfolio for Christopher Parks
 
 ## Self-Assessment
 

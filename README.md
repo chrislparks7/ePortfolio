@@ -1,5 +1,9 @@
 ## Welcome to Chris Parks ePortfolio
 
+## Code Review
+
+The informal code review can be found on [YouTube](https://www.youtube.com/watch?v=XcMLBpzeg3A)
+
 You can use the [editor on GitHub](https://github.com/chrislparks7/ePortfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

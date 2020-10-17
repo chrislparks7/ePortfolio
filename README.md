@@ -7,4 +7,4 @@ The informal code review can be found on [YouTube](https://www.youtube.com/watch
 ## Artifacts
 
 ### Software Design and Engineering
-This artifact is an Android App that is used to track events.  
+This artifact is an Android App that is used to track events.  You can view the source code for the app [here].
